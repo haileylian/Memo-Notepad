@@ -1,6 +1,6 @@
 # Memo-Notepad
 
-Memo-Notepad is an online note-taking application designed to help users easily record their ideas, thoughts, to-do lists, and more. With its simple and intuitive interface, users can create, edit, and save notes online, making note-taking a seamless experience.
+Memo-Notepad is an online note-taking application designed to help users easily record their ideas, thoughts, to-do lists, and more. With its simple and intuitive interface, users can create, edit, and save notes online, making note-taking a seamless experience. This is a group project of web programing course.
 
 ## Features
 
@@ -27,8 +27,3 @@ The project works on HTML, CSS, JavaScript, PHP, MySQL on Apache server using XA
 5. **Accessing the Application:** Open a web browser and navigate to `http://localhost/your_project_folder`, where `your_project_folder` is the name of the folder containing the project files.
 6. **Using the Application:** Once accessed, you can interact with the Memo-Notepad Web Application, create and manage your notes, and utilize all its features.
 
-## Contributors
-
-- Hailey Lian
-- Claire Lin
-- Vivian Cao
